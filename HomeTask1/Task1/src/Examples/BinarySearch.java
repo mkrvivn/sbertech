@@ -12,6 +12,7 @@ public class BinarySearch {
         l.add("c");
         l.add("d");
         l.add("e");
+        l.add("z");
         int pos = Utils.Search.BinarySearch.find(l, "c");
         System.out.println("position of \"c\" - " + String.valueOf(pos));
         l.add("g");
