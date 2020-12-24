@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66b104e8-332a-4193-85bf-266fbf5f94be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/boot/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot/src/main/java/com/sbertech/boot/Boot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot/src/main/java/com/sbertech/boot/controllers/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/src/main/java/com/sbertech/users/UsersController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utility/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utility/src/main/java/com/sbertech/utility/ArrayIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utility/src/test/java/com/sbertech/utility/ArrayIteratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeTask3/src/CollectionUtils/CollectionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeTask3/src/CollectionUtils/CollectionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeTask3/src/CollectionUtils/CollectionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeTask3/src/CollectionUtils/CollectionUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="ruo9srro" />
@@ -53,8 +43,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="build.tools" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -76,8 +67,8 @@
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="mvn clean" />
       <command value="mvn compile" />
+      <command value="mvn clean" />
     </option>
   </component>
   <component name="RunDashboard">
@@ -164,6 +155,7 @@
       <workItem from="1608769881094" duration="594000" />
       <workItem from="1608770492372" duration="6334000" />
       <workItem from="1608776883759" duration="860000" />
+      <workItem from="1608777813974" duration="668000" />
     </task>
     <servers />
   </component>

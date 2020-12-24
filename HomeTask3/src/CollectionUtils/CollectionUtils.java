@@ -20,7 +20,6 @@ public class CollectionUtils {
 
     public static <T> void add(List<? super T> source, T o) {
         source.add(o);
-        CollectionUtils.class.res
     }
 
     public static <T> void removeAll(List<T> removeFrom, List<? extends T> c2) {
