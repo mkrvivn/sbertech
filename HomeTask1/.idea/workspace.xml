@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b79a560-ca8c-4c6c-bebe-c65aa120854a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lNcIKOUTz1w56X4HbxX0rS1R7v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="HomeTask1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b79a560-ca8c-4c6c-bebe-c65aa120854a" name="Default Changelist" comment="" />
+      <created>1607440912745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607440912745</updated>
+      <workItem from="1607440913870" duration="15130000" />
+      <workItem from="1607555753696" duration="6291000" />
+      <workItem from="1607640196214" duration="1874000" />
+      <workItem from="1607698933926" duration="309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="613" y="42" key="#Auto_Import" timestamp="1607557211419">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="613" y="42" key="#Auto_Import/0.0.1680.1010@0.0.1680.1010" timestamp="1607557211419" />
+    <state x="645" y="211" key="#com.intellij.ide.util.MemberChooser" timestamp="1607562208712">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="645" y="211" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1607562208712" />
+    <state width="1637" height="123" key="GridCell.Tab.0.bottom" timestamp="1607561317185">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="123" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1607561317185" />
+    <state width="1637" height="123" key="GridCell.Tab.0.center" timestamp="1607561317185">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="123" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1607561317185" />
+    <state width="1637" height="123" key="GridCell.Tab.0.left" timestamp="1607561317184">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="123" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1607561317184" />
+    <state width="1637" height="123" key="GridCell.Tab.0.right" timestamp="1607561317185">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="123" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1607561317185" />
+    <state x="544" y="396" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1607452556788">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="544" y="396" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1680.1010@0.0.1680.1010" timestamp="1607452556788" />
+    <state x="222" y="125" key="new project wizard" timestamp="1607699245138">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="222" y="125" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1607699245138" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1607442024400">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1607442024400" />
+  </component>
+</project>

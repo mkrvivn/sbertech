@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class CollectionUtils {
+
     public static <T> void addAll(List<? super T> destination, List<? extends T> source) {
         destination.addAll(source);
     }
@@ -19,6 +20,7 @@ public class CollectionUtils {
 
     public static <T> void add(List<? super T> source, T o) {
         source.add(o);
+        CollectionUtils.class.res
     }
 
     public static <T> void removeAll(List<T> removeFrom, List<? extends T> c2) {
