@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66b104e8-332a-4193-85bf-266fbf5f94be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../HomeTask3/src/CollectionUtils/CollectionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeTask3/src/CollectionUtils/CollectionUtils.java" afterDir="false" />
-    </list>
+    <list default="true" id="66b104e8-332a-4193-85bf-266fbf5f94be" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,6 +154,9 @@
       <workItem from="1608770492372" duration="6334000" />
       <workItem from="1608776883759" duration="860000" />
       <workItem from="1608777813974" duration="668000" />
+      <workItem from="1608820979770" duration="307000" />
+      <workItem from="1608918058835" duration="77000" />
+      <workItem from="1609078774393" duration="312000" />
     </task>
     <servers />
   </component>

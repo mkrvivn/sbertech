@@ -3,6 +3,9 @@ package com.sbertech.utility;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.Mockito;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -13,6 +16,9 @@ import static org.junit.Assert.assertEquals;
 public class ArrayIteratorTest {
 
     List<String> array;
+
+    @Mock
+    ArrayIterator<String> myIt;
 
     @Before
     public void setUp() {
@@ -71,5 +77,6 @@ public class ArrayIteratorTest {
         }
         assertEquals(ls.toString(), "[a, c]");
     }
+
 
 }
