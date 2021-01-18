@@ -1,0 +1,5 @@
+com\example\browser\CustomClassLoader.class
+com\example\browser\PluginA.class
+com\example\browser\PluginManager.class
+com\example\browser\Main.class
+com\example\browser\Plugin.class
